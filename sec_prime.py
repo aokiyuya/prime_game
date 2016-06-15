@@ -8,7 +8,7 @@ import math
 def prime():
     print "2"
     print "3"
-    for num in range(1, 16667):
+    for num in range(1, 1667):
         num1, num2 = around_six(num)
         test_prime(num1)
         test_prime(num2)

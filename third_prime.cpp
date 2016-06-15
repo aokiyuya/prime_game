@@ -1,6 +1,6 @@
 // Author: yuya aoki
 // solve prime number using Sieve of Eratosthenes
-#define MAXNUM 100000
+#define MAXNUM 10000
 #include <stdio.h>
 #include <math.h>
 
