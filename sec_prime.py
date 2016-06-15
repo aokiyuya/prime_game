@@ -4,7 +4,9 @@
 # Author: Yuya Aoki
 #
 ###########################
+
 import math
+
 def prime():
     print "2"
     print "3"
