@@ -41,4 +41,4 @@ def around_six(num):
 
 if __name__ == '__main__':
     # code
-    prime2()
+    prime()
